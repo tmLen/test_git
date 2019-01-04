@@ -85,6 +85,7 @@ char Barrel::extract()
     balls = new_balls;
     return result;
 }
+//тест
 
 void lets_play(Barrel & b)
 {
