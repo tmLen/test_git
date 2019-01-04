@@ -71,6 +71,7 @@ void Barrel::print()
     }
     std::cout << std::endl;
 }
+//тест
 
 char Barrel::extract()
 {
