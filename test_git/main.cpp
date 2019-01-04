@@ -86,6 +86,7 @@ char Barrel::extract()
     return result;
 }
 //тест
+//еще тест
 
 void lets_play(Barrel & b)
 {
